@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact me</title>
+</head>
+<h1>Contact me</h1>
+<body>
+   <p>
+        <h3>My phone number</h3>
+        <h5>0423 486 432</h5>
+
+        <h3>My email</h3>
+        <h5>arthur.sete@gmail.com</h5>
+
+   </p>
+<h2><a href="index.html">Back to home</a><h2>
+
+</body>
+</html
